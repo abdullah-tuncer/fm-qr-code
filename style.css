@@ -23,6 +23,7 @@ body {
     background: var(--white);
     padding: var(--space-200) var(--space-200) var(--space-500);
     border-radius: 20px;
+    filter: drop-shadow(0px 25px 25px rgb(0,0,0,0.0477));
 }
 
 img {
