@@ -8,6 +8,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./screenshot.jpg)
 
+### Links
+
+- Live Site URL: [Click Me!](https://abdullah-tuncer.github.io/fm-qr-code/)
+
 ## My process
 
 ### Built with
